@@ -32,16 +32,7 @@ Saat ini fokus mengembangkan skill fullstack development, mendalami computer sci
 
 ---
 
-## 📂 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Sistem Informasi [Nama Project]** | Deskripsi singkat project | Laravel, MySQL | [Repo](#) |
-| **Project Lainnya** | Deskripsi singkat project | PHP, Database | [Repo](#) |
-
-> 💡 *Masih mengisi portofolio — project akan ditambahkan seiring berjalannya waktu.*
-
----
 
 ## 💼 Experience
 
